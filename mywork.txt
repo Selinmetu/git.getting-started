@@ -3,4 +3,5 @@ This is the Template for the task.
 
 Creating the first commit
 
---Comments for branch one.
+--Comments for the second branch and solving conflicts between branches
+
