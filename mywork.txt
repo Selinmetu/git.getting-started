@@ -1,7 +1,12 @@
 This is the Template for the task.
 
 
+I should do some kind of commit, sooo here it is.
+and this is my second commit in another-branch
+(Nawras Altaleb)
+
+SOLVED!
+
 Creating the first commit
 
 --Comments for the second branch and solving conflicts between branches
-
